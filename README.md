@@ -1,4 +1,6 @@
-# ejemplo_4
+# Vue Básico - Generación 4
+
+Ejemplo básico de Vue con Bootstrap, para agregar y eliminar elementos en un componente. 
 
 ## Project setup
 ```
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
